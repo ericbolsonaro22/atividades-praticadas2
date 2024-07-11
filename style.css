@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: aliceblue;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+
+a:hover{
+    transition: 2s;
+    font-size: 2rem;
+}
+
+input{
+    text-align: center;
+}
+
+p{
+    font-size: large;
+}
